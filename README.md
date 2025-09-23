@@ -10,23 +10,6 @@
 </p>
 
 <p align="center">
-  <!-- Node.js badge -->
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-v16-green?style=for-the-badge&logo=node.js" alt="Node.js v16">
-  </a>
-</p>
-
-<p align="center">
-  <!-- GitHub Actions badge -->
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Actions-lightgrey?style=for-the-badge&logo=github" alt="GitHub Actions">
-  </a>
-</p>
-
-
-
-
-<p align="center">
   <img src="https://imgs.search.brave.com/g5M_0-83yqep0LSVR1sg3Nk2uviNl5tcqHXmv-NPlew/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzA2LzQw/LzZjLzA2NDA2Yzk0/OWFjYjkzODk0MjRm/ZjhmMjUyZjQ5ODkz/LmpwZw" alt="Server Cloning" width="300">
 </p>
 
@@ -59,7 +42,7 @@ The bot will then ask for confirmation:
 1. Go to the **Actions** tab
 2. Select **Discord Server Cloner**
 3. Click **Run workflow**
-## ⚙️ Environment Variables
+## ⚙️ Environment Variables if you want to run on your pc
 
 Create a `.env` file with:
 
