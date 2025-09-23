@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Discord Selfbot badge -->
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.gg/hZf4j8GzzK" target="_blank">
     <img src="https://img.shields.io/badge/join-Discord-blue?style=for-the-badge&logo=discord" alt="Join Discord">
   </a>
 </p>
