@@ -1,4 +1,4 @@
-name: Discord Server Cloner Bot
+name: Jaden Discord Server Cloner Bot
 
 on:
   workflow_dispatch:   # Sirf manually trigger hoga
